@@ -7,6 +7,7 @@ categories:
     - domain:tele2.ru # Tele2
     - domain:t2.ru # T2
     - domain:yota.ru # Yota
+    - domain:sbermobile.ru # СберМобайл
   # Госсервисы, органы власти и госкомпании
   government:
     - domain:gosuslugi.ru # Госуслуги
@@ -146,4 +147,3 @@ categories:
     - domain:rosagroleasing.ru # Росагролизинг
     - domain:eltaltd.ru # ЭЛТА
     - domain:компанияэлта.рф # ЭЛТА
-    
