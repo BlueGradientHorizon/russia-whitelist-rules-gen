@@ -31,7 +31,6 @@ categories:
     - domain:mypervie.ru # Движение Первых альтернативный
     - domain:council.gov.ru # Сайт Совета Федерации
     - domain:knd.gov.ru # Приложение "Инспектор"
-    - domain:inspector.rt.ru # Приложение "Инспектор" РТК
     - domain:armgs.team # Коммуникационный сервис "Среда"
     - domain:gossluzhba.gov.ru # Портал "Госслужба"
     - domain:мвд.рф # МВД
@@ -125,7 +124,6 @@ categories:
     - domain:tass.ru # ТАСС
     - domain:aif.ru # Аргументы и Факты
     - domain:rt.com # RT
-    - domain:russian.rt.com # RT на русском
     - domain:vedomosti.ru # Ведомости
     - domain:mk.ru # Московский Комсомолец
     - domain:rg.ru # Российская газета
