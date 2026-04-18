@@ -39,6 +39,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Обновить файлы с правилами из whitelist.yaml"
-          file_pattern: |
-            xray-core-rule.txt
-            sing-box-rule.txt
