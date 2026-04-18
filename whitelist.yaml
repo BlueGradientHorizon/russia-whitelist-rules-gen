@@ -8,6 +8,11 @@ categories:
     - domain:t2.ru # T2
     - domain:yota.ru # Yota
     - domain:sbermobile.ru # СберМобайл
+    - domain:rt.ru # Ростелеком
+    - domain:motivtelecom.ru # Мотив
+    - domain:dom.ru # Дом.ру
+    - domain:ertelecom.ru # Эр-Телеком
+    # T-Мобайл ??
   # Госсервисы, органы власти и госкомпании
   government:
     - domain:gosuslugi.ru # Госуслуги
@@ -57,6 +62,7 @@ categories:
     - domain:psbank.ru # ПСБ альтернативный
     - domain:payment.ru # ПСБ платежи
     - domain:psb-ocenka.ru # ПСБ оценка
+    - domain:mtsbank.ru # МТС Банк
   # Магазины и еда
   retail_and_food:
     - geosite:ozon # Ozon
@@ -75,6 +81,8 @@ categories:
     - domain:mnogolososya.ru # Много лосося
     - domain:vkusnoitochka.ru # Вкусно — и точка
     - domain:burgerking.ru # Бургер Кинг
+    - domain:victoria-group.ru # Моя Виктория
+    - domain:krasyar.ru # Красный Яр
     - domain:burgerkingrus.ru # Бургер Кинг тех домен
     - domain:detmir.ru # Детский мир
     - domain:petrovich.ru # ТД "Петрович"
@@ -104,11 +112,13 @@ categories:
     - geosite:okko # Okko
     - domain:ivi.ru # Иви
     - geosite:rutube # RUTUBE
+    - domain:beeline.tv # билайн тв
     - domain:radioplayer.ru # Радиоплеер
     - domain:kp.ru # Комсомольская правда
     - domain:rbc.ru # РБК
     - domain:lenta.ru # Lenta.Ru
     - domain:gazeta.ru # Газета.Ru
+    - domain:kommersant.ru # Коммерсантъ
     - domain:ria.ru # РИА Новости
     - domain:rambler.ru # Рамблер
     - domain:iz.ru # Известия
@@ -143,7 +153,9 @@ categories:
     - domain:cmd-online.ru # CMD
     - geosite:headhunter # HeadHunter
     - geosite:cdek # СДЭК
+    - domain:topdelivery.ru # TopDelivery
     - domain:evotor.ru # Эвотор
     - domain:rosagroleasing.ru # Росагролизинг
     - domain:eltaltd.ru # ЭЛТА
     - domain:компанияэлта.рф # ЭЛТА
+    - domain:dnevnik.ru
