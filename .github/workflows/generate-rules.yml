@@ -1,0 +1,41 @@
+name: Generate Rule Files
+
+on:
+  push:
+    paths:
+      - 'whitelist.yaml'
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+          
+      - name: Generate xray-core rules
+        run: |
+          python gen_list.py x > xray-core-rule.txt
+          
+      - name: Generate sing-box rules
+        run: |
+          python gen_list.py s > sing-box-rule.txt
+          
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Обновить файлы с правилами из whitelist.yaml"
+          file_pattern: |
+            xray-core-rule.txt
+            sing-box-rule.txt
