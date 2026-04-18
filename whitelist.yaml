@@ -1,0 +1,148 @@
+categories:
+  # МегаФон и другие операторы связи
+  telecom:
+    - domain:megafon.ru # МегаФон
+    - domain:mts.ru # МТС
+    - domain:beeline.ru # Билайн
+    - domain:tele2.ru # Tele2
+    - domain:t2.ru # T2
+    - domain:yota.ru # Yota
+  # Госсервисы, органы власти и госкомпании
+  government:
+    - domain:gosuslugi.ru # Госуслуги
+    - domain:gu-st.ru # Госуслуги тех домен
+    - domain:goskey.ru # Госключ
+    - domain:crpt.ru # ЦРПТ
+    - domain:честныйзнак.рф # Честный знак
+    - domain:pochta.ru # Почта России
+    - domain:cbr.ru # Сайт Банка России
+    - domain:rsv.ru # АНО "Россия — страна возможностей"
+    - domain:myrosmol.ru # ФГАИС "Молодёжь России"
+    - domain:tvoyhod.online # Твой ход
+    - domain:mos.ru # Mos.ru
+    - domain:объясняем.рф # Объясняем.рф
+    - domain:будьвдвижении.рф # Движение Первых
+    - domain:mypervie.ru # Движение Первых альтернативный
+    - domain:council.gov.ru # Сайт Совета Федерации
+    - domain:knd.gov.ru # Приложение "Инспектор"
+    - domain:inspector.rt.ru # Приложение "Инспектор" РТК
+    - domain:armgs.team # Коммуникационный сервис "Среда"
+    - domain:gossluzhba.gov.ru # Портал "Госслужба"
+    - domain:мвд.рф # МВД
+    - domain:mvd.ru # МВД альтернативный
+    - domain:mchs.gov.ru # МЧС
+    - domain:moskva-putinu.ru # Прямая линия с Владимиром Путиным
+    - domain:rosatom.ru # Росатом
+    - domain:rosseti.ru # Россети
+    - domain:staves.ru # ПАО "Ставропольэнергосбыт"
+    - domain:dom.gosuslugi.ru # ГИС ЖКХ
+    - domain:nalog.ru # ФНС
+    - domain:vybory.gov.ru # Платформа ДЭГ
+    - domain:government.ru # Правительство РФ
+    - domain:kremlin.ru # Администрация Президента России
+  # Банки и финансы
+  finance:
+    - domain:mironline.ru # Платёжная система "Мир", Mir Pay
+    - domain:nspk.ru # НСПК
+    - domain:sbp.nspk.ru # СБП
+    - domain:moex.com # Московская биржа
+    - domain:finuslugi.ru # Финуслуги
+    - domain:alfabank.ru # Альфа-Банк
+    - domain:alfabank.st # Альфа-Банк тех домен
+    - domain:alfadirect.ru # Альфа-Банк директ
+    - domain:myapelsin.ru # Альфа-Банк доп сервисы
+    - domain:vtb.ru # ВТБ
+    - domain:psb.ru # ПСБ
+    - domain:psbank.ru # ПСБ альтернативный
+    - domain:payment.ru # ПСБ платежи
+    - domain:psb-ocenka.ru # ПСБ оценка
+  # Магазины и еда
+  retail_and_food:
+    - geosite:ozon # Ozon
+    - geosite:wildberries # Wildberries
+    - domain:megamarket.ru # МегаМаркет
+    - domain:samokat.ru # Самокат
+    - domain:kuper.ru # Купер
+    - geosite:x5 # Пятёрочка, Перекрёсток, Чижик
+    - geosite:magnit # Магнит
+    - domain:av.ru # Азбука вкуса
+    - domain:dixy.ru # Дикси
+    - domain:metro-cc.ru # METRO
+    - domain:vkusvill.ru # ВкусВилл
+    - domain:myspar.ru # SPAR
+    - domain:auchan.ru # АШАН
+    - domain:mnogolososya.ru # Много лосося
+    - domain:vkusnoitochka.ru # Вкусно — и точка
+    - domain:burgerking.ru # Бургер Кинг
+    - domain:burgerkingrus.ru # Бургер Кинг тех домен
+    - domain:detmir.ru # Детский мир
+    - domain:petrovich.ru # ТД "Петрович"
+  # ТВ, видео, радио, новости и IT-гиганты
+  media_and_it:
+    - domain:tnt-online.ru # ТНТ
+    - domain:ctc.ru # СТС
+    - domain:tv3.ru # ТВ-3
+    - domain:friday.ru # Пятница
+    - domain:otr-online.ru # ОТР
+    - domain:1tv.ru # Первый канал
+    - domain:5-tv.ru # Пятый канал
+    - domain:domashniy.ru # Домашний
+    - domain:ntv.ru # НТВ
+    - domain:muz-tv.ru # Муз-ТВ
+    - domain:ren.tv # РЕН ТВ
+    - domain:spastv.ru # СПАС
+    - domain:tvc.ru # ТВ Центр
+    - domain:mirtv.ru # МИР
+    - domain:matchtv.ru # Матч ТВ
+    - domain:vmeste-rf.tv # Вместе-РФ
+    - domain:tvzvezda.ru # ТРК "Звезда"
+    - domain:vgtrk.ru # ВГТРК
+    - domain:smotrim.ru # ВГТРК Смотрим
+    - domain:vitrina.tv # Витрина ТВ
+    - geosite:kinopoisk # Кинопоиск
+    - geosite:okko # Okko
+    - domain:ivi.ru # Иви
+    - geosite:rutube # RUTUBE
+    - domain:radioplayer.ru # Радиоплеер
+    - domain:kp.ru # Комсомольская правда
+    - domain:rbc.ru # РБК
+    - domain:lenta.ru # Lenta.Ru
+    - domain:gazeta.ru # Газета.Ru
+    - domain:ria.ru # РИА Новости
+    - domain:rambler.ru # Рамблер
+    - domain:iz.ru # Известия
+    - domain:tass.ru # ТАСС
+    - domain:aif.ru # Аргументы и Факты
+    - domain:rt.com # RT
+    - domain:russian.rt.com # RT на русском
+    - domain:vedomosti.ru # Ведомости
+    - domain:mk.ru # Московский Комсомолец
+    - domain:rg.ru # Российская газета
+    - domain:pnp.ru # Парламентская газета
+    - geosite:mailru-group # Все сервисы VK Group
+    - geosite:yandex # Все сервисы Яндекса
+  # Транспорт и путешествия
+  transport:
+    - domain:rzd.ru # РЖД
+    - domain:rzd-bonus.ru # РЖД Бонус
+    - domain:tutu.ru # Туту
+    - domain:pobeda.aero # Победа
+    - domain:aeroflot.ru # Аэрофлот
+    - domain:grandtrain.ru # Гранд Сервис Экспресс
+    - domain:dellin.ru # Деловые Линии
+    - domain:taximaxim.ru # Такси "Максим"
+    - domain:citydrive.ru # Ситидрайв
+  # Другое
+  other:
+    - domain:gismeteo.ru # Gismeteo
+    - geosite:avito # Авито
+    - geosite:2gis # 2ГИС
+    - domain:domclick.ru # Домклик
+    - domain:csat.ru # Цезарь Сателлит
+    - domain:cmd-online.ru # CMD
+    - geosite:headhunter # HeadHunter
+    - geosite:cdek # СДЭК
+    - domain:evotor.ru # Эвотор
+    - domain:rosagroleasing.ru # Росагролизинг
+    - domain:eltaltd.ru # ЭЛТА
+    - domain:компанияэлта.рф # ЭЛТА
