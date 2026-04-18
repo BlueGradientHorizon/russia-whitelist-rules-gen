@@ -38,6 +38,7 @@ categories:
     - domain:mchs.gov.ru # МЧС
     - domain:moskva-putinu.ru # Прямая линия с Владимиром Путиным
     - domain:rosatom.ru # Росатом
+    - domain:atomen.ru # Росатом Сеть зарядных станций
     - domain:rosseti.ru # Россети
     - domain:staves.ru # ПАО "Ставропольэнергосбыт"
     - domain:dom.gosuslugi.ru # ГИС ЖКХ
@@ -62,6 +63,7 @@ categories:
     - domain:payment.ru # ПСБ платежи
     - domain:psb-ocenka.ru # ПСБ оценка
     - domain:mtsbank.ru # МТС Банк
+    - domain:gazprombank.ru # Газпромбанк
   # Магазины и еда
   retail_and_food:
     - geosite:ozon # Ozon
@@ -110,6 +112,7 @@ categories:
     - geosite:kinopoisk # Кинопоиск
     - geosite:okko # Okko
     - domain:ivi.ru # Иви
+    - geosite:wink # Wink
     - geosite:rutube # RUTUBE
     - domain:beeline.tv # билайн тв
     - domain:radioplayer.ru # Радиоплеер
@@ -130,6 +133,8 @@ categories:
     - domain:pnp.ru # Парламентская газета
     - geosite:mailru-group # Все сервисы VK Group
     - geosite:yandex # Все сервисы Яндекса
+    - domain:tensor.ru # Тензор
+    - domain:kontur.ru # СКБ Контур
   # Транспорт и путешествия
   transport:
     - domain:rzd.ru # РЖД
